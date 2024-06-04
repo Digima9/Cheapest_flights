@@ -2,9 +2,15 @@ import smtplib
 import datetime as dt
 import html
 import codecs
+import os
+from dotenv import load_dotenv
+import pprint
+
+load_dotenv()
+pprint.pprint(dict(os.environ))
 
 email = "umitaslan.au@gmail.com"
-password = "sfct xapa ccef hglz"
+password = os.environ["password"]
 email_to ="aslan_umit@yahoo.com"
 email_to2 ="popesculaura3081@yahoo.com"
 

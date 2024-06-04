@@ -1,9 +1,15 @@
 from keys import os
 import datetime as dt
+import os
+from dotenv import load_dotenv
+import pprint
 
+load_dotenv()
+pprint.pprint(dict(os.environ))
 kiwi_key = os.environ.get("KIWI_API_KEY")
+print(kiwi_key)
 
-
+data = ""
 class FlightSearch:
     import requests
 
