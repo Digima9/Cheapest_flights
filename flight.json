@@ -1,0 +1,74 @@
+[
+  {
+    "city": "Paris",
+    "code": "PAR",
+    "priceExpected": 60,
+    "id": 2
+  },
+  {
+    "city": "Berlin",
+    "code": "BER",
+    "priceExpected": 60,
+    "id": 3
+  },
+  {
+    "city": "Istanbul",
+    "code": "IST",
+    "priceExpected": 60,
+    "id": 4
+  },
+  {
+    "city": "Rome",
+    "code": "ROM",
+    "priceExpected": 60,
+    "id": 5
+  },
+  {
+    "city": "Venice",
+    "code": "VCE",
+    "priceExpected": 60,
+    "id": 6
+  },
+  {
+    "city": "Vienna",
+    "code": "VIE",
+    "priceExpected": 60,
+    "id": 7
+  },
+  {
+    "city": "Milano",
+    "code": "MIL",
+    "priceExpected": 60,
+    "id": 8
+  },
+  {
+    "city": "Stockholm",
+    "code": "STO",
+    "priceExpected": 60,
+    "id": 9
+  },
+  {
+    "city": "Copenhagen",
+    "code": "CPH",
+    "priceExpected": 60,
+    "id": 10
+  },
+  {
+    "city": "Athens",
+    "code": "ATH",
+    "priceExpected": 60,
+    "id": 11
+  },
+  {
+    "city": "Barcelona",
+    "code": "BCN",
+    "priceExpected": 60,
+    "id": 12
+  },
+  {
+    "city": "Malaga",
+    "code": "AGP",
+    "priceExpected": 100,
+    "id": 12
+  }
+]
